@@ -13,11 +13,11 @@ El juego consta de varias interacciones, como por ejemplo:
 - Al recoger las monedas aumenta la puntuación.
 - Hay un objecto llamado muro que al chocar la bola contra él se abre.
 
-![GiftJuego](./image/image.gif)
+![GiftJuego](./Assets/image/image.gif)
 
 - Cuando pasamos por un suelo de diferente color aumenta la velocidad de la bola.
 
-![GiftJuego2](./image/image2.gif)
+![GiftJuego2](./Assets/image/image2.gif)
 
 Además el juego está compuesto de varios obstáculos como paredes que rotan, 
 muros y esferas que se deslizan y rampas.
